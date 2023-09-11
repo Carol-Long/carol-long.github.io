@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carol Long （龙璇）"
+title                    : "Carol Long 龙璇"
 title_separator          : "-"
 name                     : &name "Carol Long"
 description              : &description "PhD Student at Harvard University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Carol Long"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student in Applied Mathematics, Harvard University"
   location         : "Cambridge, Massachusetts"
   employer         :
   pubmed           : 
