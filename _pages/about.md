@@ -23,5 +23,4 @@ Neurips, 2023\
 It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
 
 # Misc
-Outside of work, I play a bit of piano, train for my to-be-confirmed half-marathon, dance ballet/contemp at nearby studios, or simply cook Chinese/Singaporean food and read away (AntiFragile is my recent favorite!) in the comfort of home, provided that I am not traveling.
-
+Outside of work, being a pianist and dancer, I have a deep appreciation for all art forms, esp. classical music and ballet/contemporary dance. Growing up as a swimmer, I enjoy sports. From completing a half-marathon and recovering from an ACL injury, for better or worse, I do have many stories to tell. Of course, I love cooking Chinese/Singaporean food and reading away (AntiFragile is my recent favorite!) in the comfort of home! 
