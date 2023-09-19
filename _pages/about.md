@@ -22,6 +22,6 @@ Fairness interventions in machine learning optimized solely for group fairness a
 - [On the epistemic limits of personalized prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:d1gkVwhDpl0C)\
 Lucas Monteiro Paes\*, **Carol Long**\*, Berk Ustun, Flavio Calmon (* Equal Contribution)\
 Neurips, 2023\
-It is impossible to reliably verify that a personalized classifier with k ≥ 19 binary group attributes will benefit every group that provides personal data using a dataset of n = 8 × 10^9 samples – one for each person in the world.
+It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
 
 ======
