@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Carol Long 龙璇"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Applied Mathematics, Harvard John A. Paulson School of Engineering and Applied Sciences"
+  bio              : "Ph.D. Student in Applied Mathematics,\ Harvard John A. Paulson School of Engineering and Applied Sciences"
   location         : "Cambridge, MA"
   employer         : 
   pubmed           : 
