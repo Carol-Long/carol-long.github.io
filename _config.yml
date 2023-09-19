@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Carol's Homepage"
 title_separator          : "-"
-name                     : &name "Carol Long 龙璇"
+name                     : &name "Carol Long"
 description              : &description "PhD Student at Harvard University"
 url                      : https://carol-long.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carol Long"
+  name             : "Carol Long 龙璇"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student in Applied Mathematics, Harvard John A. Paulson School of Engineering and Applied Sciences"
   location         : "Cambridge, MA"
