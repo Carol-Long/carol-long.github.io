@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carol Long 龙璇"
+title                    : "Carol's Homepage'"
 title_separator          : "-"
-name                     : &name "Carol Long"
+name                     : &name "Carol Long 龙璇"
 description              : &description "PhD Student at Harvard University"
 url                      : https://carol-long.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Carol Long"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Applied Mathematics, Harvard University"
-  location         : "Cambridge, Massachusetts"
-  employer         :
+  bio              : "Ph.D. Student in Applied Mathematics, Lover of Art and Music (in addition to Machine learning)"
+  location         : "Cambridge, MA"
+  employer         : School of Engineering and Applied Sciences, Harvard University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DGQASc8AAAAJ&hl=en"
   email            : "carol_long@g.harvard.edu"
@@ -100,17 +100,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/carol-xuan-long/"
+  linkedin         : "carol-xuan-long/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
-  vine             :
+  twitter          : "carollong2047"
+  vine             : 
   weibo            :
   xing             :
   youtube          :

@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Carol_CV.pdf
 
-  - title: "Interests"
-    url: /interests/    
+  # - title: "Life Outside of Work"
+  #   url: /interests/    
 
   # - title: "Teaching"
   #   url: /teaching/    
