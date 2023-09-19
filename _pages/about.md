@@ -11,9 +11,6 @@ Hello! I am a third-year Ph.D. student at Harvard, advised by [Flavio du Pin Cal
 
 My research interest lies in **Responsible Machine Learning**, which includes fairness, privacy, and interpretability. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I'm currently working on Algorithmic Fairness using tools and frameworks from Information Theory. Feel free to reach out if you would like to discuss! 
 
-Outside of work, I play a bit of piano, train for my to-be-confirmed half-marathon, dance ballet/contemp at nearby studios, or simply cook Chinese/Singaporean food and read away (AntiFragile is my recent favorite!) in the comfort of home, provided that I am not traveling.
-
-======
 # Publications
 - [Arbitrariness Lies Beyond the Fairness-Accuracy Frontier](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:9yKSN-GCB0IC)\
 **Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
@@ -25,4 +22,6 @@ Lucas Monteiro Paes\*, **Carol Long**\*, Berk Ustun, Flavio Calmon (* Equal Cont
 Neurips, 2023\
 It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
 
-======
+# Misc
+Outside of work, I play a bit of piano, train for my to-be-confirmed half-marathon, dance ballet/contemp at nearby studios, or simply cook Chinese/Singaporean food and read away (AntiFragile is my recent favorite!) in the comfort of home, provided that I am not traveling.
+
