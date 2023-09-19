@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carol's Homepage'"
+title                    : "Carol's Homepage"
 title_separator          : "-"
 name                     : &name "Carol Long 龙璇"
 description              : &description "PhD Student at Harvard University"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Carol Long"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Applied Mathematics, Lover of Art and Music (in addition to Machine learning)"
+  bio              : "Ph.D. Student in Applied Mathematics, Harvard John A. Paulson School of Engineering and Applied Sciences"
   location         : "Cambridge, MA"
-  employer         : School of Engineering and Applied Sciences, Harvard University
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DGQASc8AAAAJ&hl=en"
   email            : "carol_long@g.harvard.edu"
