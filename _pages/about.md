@@ -14,12 +14,12 @@ My research interest lies in **Responsible Machine Learning**, which includes fa
 # Publications
 - [Arbitrariness Lies Beyond the Fairness-Accuracy Frontier](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:9yKSN-GCB0IC)\
 **Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
-Neurips, 2023, $${\color{red}Spotlight!}$$\
+Advances in Neural Information Processing Systems (**NeurIPS**), 2023, **$${\color{red}Spotlight!}$$**\
 Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
 
 - [On the epistemic limits of personalized prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:d1gkVwhDpl0C)\
 Lucas Monteiro Paes\*, **Carol Long**\*, Berk Ustun, Flavio Calmon (* Equal Contribution)\
-Neurips, 2022\
+Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
 It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
 
 # Misc
