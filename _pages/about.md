@@ -14,7 +14,7 @@ My research interest lies in **Responsible Machine Learning**, which includes fa
 # Publications
 - [Arbitrariness Lies Beyond the Fairness-Accuracy Frontier](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:9yKSN-GCB0IC)\
 **Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
-Advances in Neural Information Processing Systems (**NeurIPS**), 2023, **$${\color{red}{Selected as Spotlight}}$$**\
+Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">(Spotlight Paper)</span>.\
 Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
 
 - [On the epistemic limits of personalized prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:d1gkVwhDpl0C)\
