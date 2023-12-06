@@ -12,7 +12,7 @@ Hello! I am a third-year Ph.D. student at Harvard, advised by [Flavio du Pin Cal
 My research interest lies in **Responsible Machine Learning**, which includes fairness, privacy, and interpretability. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I'm currently working on Algorithmic Fairness using tools and frameworks from Information Theory. Feel free to reach out if you would like to discuss! 
 
 # Publications
-- [Arbitrariness Lies Beyond the Fairness-Accuracy Frontier](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:9yKSN-GCB0IC)\
+- [Individual Arbitrariness and Group Fairness](https://openreview.net/pdf?id=nzkWhoXUpv)\
 **Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">(Spotlight Paper)</span>.\
 Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
