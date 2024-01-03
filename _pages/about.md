@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a third-year Ph.D. student at Harvard, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Meta](https://about.meta.com). I am **looking for an internship for Summer 24'** (open to opportunities in the US, Europe, and Singapore)! 
+Hello! I am a third-year Ph.D. student at Harvard, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Meta](https://about.meta.com). 
 
 My research interest lies in **Responsible Machine Learning**, which includes fairness, privacy, and interpretability. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I'm currently working on Algorithmic Fairness using tools and frameworks from Information Theory. Feel free to reach out if you would like to discuss! 
 
