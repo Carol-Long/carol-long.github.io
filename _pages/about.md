@@ -15,8 +15,8 @@ My research interest lies in **Responsible Machine Learning**, which includes fa
 - [Individual Arbitrariness and Group Fairness](https://openreview.net/pdf?id=nzkWhoXUpv)\
 **Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">**Spotlight Paper**</span>.\
-*TL:DR* Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
-*Cite* 
+*TL/DR:* Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
+
 <pre><code>
 @inproceedings{long2023individual,
   title={Individual Arbitrariness and Group Fairness},
@@ -28,8 +28,8 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span sty
 - [On the epistemic limits of personalized prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:d1gkVwhDpl0C)\
 Lucas Monteiro Paes\*, **Carol Long**\*, Berk Ustun, Flavio Calmon (* Equal Contribution)\
 Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
-*TL:DR* It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
-*Cite* 
+*TL/DR:* It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
+
 <pre><code>
 @article{monteiro2022epistemic,
   title={On the epistemic limits of personalized prediction},
