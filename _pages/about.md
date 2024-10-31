@@ -27,7 +27,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2024.\
 *TL/DR:* We introduce Multi-Group Proportional Representation (MPR), a novel metric that measures representation across intersectional groups. We propose practical methods and algorithms for estimating and ensuring MPR in image retrieval, with minimal compromise in retrieval accuracy. 
 
 - [Individual Arbitrariness and Group Fairness](https://openreview.net/pdf?id=nzkWhoXUpv)\
-**Carol Xuan Long**, Hsiang Hsu\*, Wael Alghamdi\*, Flavio P Calmon\
+**Carol Xuan Long**, Hsiang Hsu, Wael Alghamdi, Flavio P Calmon\
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">**Spotlight Paper**</span>.\
 *TL/DR:* Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
 
