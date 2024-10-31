@@ -17,7 +17,7 @@ My research interest lies in **Responsible and Trustworthy Machine Learning**, a
 Under Review, 2024.-->
 
 - [Multi-Group Proportional Representation in Retrieval](https://arxiv.org/pdf/2402.07745)\
-Jamelle Watson-Daniels, Flavio P Calmon, Alexander D’Amour, **Carol Xuan Long**, David C. Parkes, Berk Ustun 
+Jamelle Watson-Daniels, Flavio P Calmon, Alexander D’Amour, **Carol Xuan Long**, David C. Parkes, Berk Ustun\ 
 Under Review, 2024.\
 *TL/DR:* We study the effect of predictive churn - flip in predictions over ML model updates - through the lens of predictive multiplicity – i.e., the prevalence of conflicting predictions over the set of near-optimal models (the ε-Rashomon set). 
 
