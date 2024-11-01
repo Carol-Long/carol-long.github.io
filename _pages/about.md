@@ -12,11 +12,11 @@ Hello! I am a 4th-year Ph.D. student at Harvard, advised by [Flavio du Pin Calmo
 My research interest lies in **Responsible and Trustworthy Machine Learning**, and my work spans LLM watermarking, algorithmic fairness, multiplicity, and more. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I use tools and frameworks from Information Theory, Probability, and Statistics. Feel free to reach out if you would like to discuss! 
 
 # Publications
-<!--- Kernel Multiaccuracy\
+- Kernel Multiaccuracy\
 **Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon 
-Under Review, 2024.-->
+Under Review, 2024.
 
-- [Multi-Group Proportional Representation in Retrieval](https://arxiv.org/pdf/2402.07745)\
+- [Predictive Churn with the Set of Good Models](https://arxiv.org/pdf/2402.07745)\
 Jamelle Watson-Daniels, Flavio P Calmon, Alexander D’Amour, **Carol Xuan Long**, David C. Parkes, Berk Ustun\ 
 Under Review, 2024.\
 *TL/DR:* We study the effect of predictive churn - flip in predictions over ML model updates - through the lens of predictive multiplicity – i.e., the prevalence of conflicting predictions over the set of near-optimal models (the ε-Rashomon set). 
