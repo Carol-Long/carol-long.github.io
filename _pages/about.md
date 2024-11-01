@@ -13,7 +13,7 @@ My research interest lies in **Responsible and Trustworthy Machine Learning**, a
 
 # Publications
 - Kernel Multiaccuracy\
-**Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon 
+**Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon\
 Under Review, 2024.
 
 - [Predictive Churn with the Set of Good Models](https://arxiv.org/pdf/2402.07745)\
