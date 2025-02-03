@@ -13,9 +13,13 @@ My research interest lies in **Responsible and Trustworthy Machine Learning**, a
 I am always open for collaborations and can be reached via email!
 
 # Publications 
+- [Optimized Couplings for Watermarking Large Language Models](https://github.com/Carol-Long/CC_Watermark)\
+**Carol Xuan Long**, Dor Tsur, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
+Under Review, 2025.
+
 - Kernel Multiaccuracy\
 **Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon\
-Under Review, 2024.
+Foundations of Responsible Computing (**FORC**), 2025.
 
 - [Predictive Churn with the Set of Good Models](https://arxiv.org/pdf/2402.07745)\
 Jamelle Watson-Daniels, Flavio P Calmon, Alexander D’Amour, **Carol Xuan Long**, David C. Parkes, Berk Ustun\ 
@@ -23,7 +27,7 @@ Under Review, 2024.\
 *TL/DR:* We study the effect of predictive churn - flip in predictions over ML model updates - through the lens of predictive multiplicity – i.e., the prevalence of conflicting predictions over the set of near-optimal models (the ε-Rashomon set). 
 
 - [Multi-Group Proportional Representation in Retrieval](https://openreview.net/pdf?id=BRZYhVHvSg)\
-Alex Osterling, Claudio Mayrink Verdun, **Carol Xuan Long**, Alexander Glynn, Lucas Monteiro Paes, Sajani Vithana, Martina Cardone, Flavio P Calmon\
+Alex Osterling, Claudio M Verdun, **Carol Xuan Long**, Alexander Glynn, Lucas Monteiro Paes, Sajani Vithana, Martina Cardone, Flavio P Calmon\
 Advances in Neural Information Processing Systems (**NeurIPS**), 2024.\
 *TL/DR:* We introduce Multi-Group Proportional Representation (MPR), a novel metric that measures representation across intersectional groups. We propose practical methods and algorithms for estimating and ensuring MPR in image retrieval, with minimal compromise in retrieval accuracy. 
 
