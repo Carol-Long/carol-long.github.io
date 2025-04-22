@@ -15,7 +15,7 @@ I am always open for collaborations and can be reached via email!
 # Publications 
 - [Optimized Couplings for Watermarking Large Language Models](https://github.com/Carol-Long/CC_Watermark)\
 **Carol Xuan Long**, Dor Tsur, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
-Under Review, 2025.
+IEEE International Symposium on Information Theory (**ISIT**), 2025.
 
 - Kernel Multiaccuracy\
 **Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon\
