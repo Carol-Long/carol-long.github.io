@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a Ph.D. student at Harvard, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). My expected graduation date is May 2026! I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com). 
+Hello! I am a Ph.D. student at Harvard University, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). My expected graduation date is May 2026! I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com). 
 
-My research interest lies in **Responsible and Trustworthy Machine Learning**, and my work spans LLM watermarking (**ongoing work!**), algorithmic fairness, multiplicity, and more. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I use tools and frameworks from Information Theory, Probability, and Statistics. 
+My research interest lies in **Responsible and Trustworthy Machine Learning**, and my work spans LLM watermarking, algorithmic fairness, multiplicity, and more. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I use tools and frameworks from Information Theory, Probability, and Statistics. 
 I am always open for collaborations and can be reached via email!
 
 # Publications 
