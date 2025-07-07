@@ -16,7 +16,9 @@ I am always open for collaborations and can be reached via email!
 - [HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/pdf/2506.06409?)\
 Dor Tsur\*, **Carol Xuan Long**\*, Claudio M. Verdun, Hsiang Hsu, Chen-Fu Chen, Haim Permuter, Sajani Vithana, Flavio P Calmon\
 Under Review, 2025.
-*TL/DR:* Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks HeavyWater and SimplexWater that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and coding theory.
+<details><summary><strong>TL/DR</strong></summary>
+<p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks HeavyWater and SimplexWater that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and coding theory.</p>
+</details>
 
 - [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO), [slides](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing)\
 **Carol Xuan Long**\*, Dor Tsur\*, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
