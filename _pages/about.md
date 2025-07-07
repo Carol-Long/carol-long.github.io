@@ -13,8 +13,12 @@ My research interest lies in **Responsible and Trustworthy Machine Learning**, a
 I am always open for collaborations and can be reached via email!
 
 # Publications 
-- [Optimized Couplings for Watermarking Large Language Models](https://github.com/Carol-Long/CC_Watermark)\
-**Carol Xuan Long**, Dor Tsur, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
+- [HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/pdf/2506.06409?)\
+Dor Tsur\*, **Carol Xuan Long**\*, Claudio M. Verdun, Hsiang Hsu, Chen-Fu Chen, Haim Permuter, Sajani Vithana, Flavio P Calmon\
+Under Review, 2025.
+
+- [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO)\
+**Carol Xuan Long**\*, Dor Tsur\*, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
 IEEE International Symposium on Information Theory (**ISIT**), 2025.
 
 - Kernel Multiaccuracy\
