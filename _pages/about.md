@@ -17,33 +17,43 @@ I am always open for collaborations and can be reached via email!
 Dor Tsur\*, **Carol Xuan Long**\*, Claudio M. Verdun, Hsiang Hsu, Chen-Fu Chen, Haim Permuter, Sajani Vithana, Flavio P Calmon\
 Under Review, 2025.
   <details><summary><strong>TL/DR</strong></summary>
-  <p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks HeavyWater and SimplexWater that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and coding theory.</p>
+  <p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks **HeavyWater** and **SimplexWater** that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and **coding theory**.</p>
   </details>
 
 - [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO), [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing)\
 **Carol Xuan Long**\*, Dor Tsur\*, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
-IEEE International Symposium on Information Theory (**ISIT**), 2025.\
-*TL/DR:* We argue that a key component in watermark design is generating a coupling between the side information shared with the watermark detector and a random partition of the LLM vocabulary. Our analysis identifies the optimal coupling and randomization strategy under the worst-case LLM next-token distribution that satisfies a min-entropy constraint. We propose the **Correlated-Channel watermarking scheme** --- a closed-form scheme that achieve high detection at zero distortion.
+IEEE International Symposium on Information Theory (**ISIT**), 2025.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>We argue that a key component in watermark design is generating a coupling between the side information shared with the watermark detector and a random partition of the LLM vocabulary. Our analysis identifies the optimal coupling and randomization strategy under the worst-case LLM next-token distribution that satisfies a min-entropy constraint. We propose the **Correlated-Channel watermarking scheme** --- a closed-form scheme that achieve high detection at zero distortion.</p>
+  </details>
 
 - [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf), [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing)\
 **Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon\
-Foundations of Responsible Computing (**FORC**), 2025.\
-*TL/DR:* We connect multi-group notions with *Integral Probability Metrics*, and propose **KMAcc** --- a non-iterative, one-step optimization to correct multiaccuracy errors in the kernel space.
+Foundations of Responsible Computing (**FORC**), 2025.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>We connect multi-group notions with *Integral Probability Metrics*, and propose **KMAcc** --- a non-iterative, one-step optimization to correct multiaccuracy errors in the kernel space.</p>
+  </details>
 
 - [Predictive Churn with the Set of Good Models](https://arxiv.org/pdf/2402.07745)\
 Jamelle Watson-Daniels, Flavio P Calmon, Alexander D’Amour, **Carol Xuan Long**, David C. Parkes, Berk Ustun\ 
-Under Review, 2024.\
-*TL/DR:* We study the effect of predictive churn - flip in predictions over ML model updates - through the lens of predictive multiplicity – i.e., the prevalence of conflicting predictions over the set of near-optimal models (the ε-Rashomon set). 
+Under Review, 2024.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>We study the effect of predictive churn - flip in predictions over ML model updates - through the lens of predictive multiplicity – i.e., the prevalence of conflicting predictions over the set of near-optimal models (the ε-Rashomon set). </p>
+  </details>
 
 - [Multi-Group Proportional Representation in Retrieval](https://openreview.net/pdf?id=BRZYhVHvSg)\
 Alex Osterling, Claudio M Verdun, **Carol Xuan Long**, Alexander Glynn, Lucas Monteiro Paes, Sajani Vithana, Martina Cardone, Flavio P Calmon\
-Advances in Neural Information Processing Systems (**NeurIPS**), 2024.\
-*TL/DR:* We introduce Multi-Group Proportional Representation (MPR), a novel metric that measures representation across intersectional groups. We propose practical methods and algorithms for estimating and ensuring MPR in image retrieval, with minimal compromise in retrieval accuracy. 
+Advances in Neural Information Processing Systems (**NeurIPS**), 2024.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>We introduce Multi-Group Proportional Representation (MPR), a novel metric that measures representation across intersectional groups. We propose practical methods and algorithms for estimating and ensuring MPR in image retrieval, with minimal compromise in retrieval accuracy. </p>
+  </details>
 
 - [Individual Arbitrariness and Group Fairness](https://openreview.net/pdf?id=nzkWhoXUpv)\
 **Carol Xuan Long**, Hsiang Hsu, Wael Alghamdi, Flavio P Calmon\
-Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">**Spotlight Paper**</span>.\
-*TL/DR:* Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. 
+Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">**Spotlight Paper**</span>.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. </p>
+  </details>
 
 <!-- <pre><code>
 @inproceedings{long2023individual,
@@ -55,8 +65,11 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span sty
 
 - [On the epistemic limits of personalized prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DGQASc8AAAAJ&citation_for_view=DGQASc8AAAAJ:d1gkVwhDpl0C)\
 Lucas Monteiro Paes\*, **Carol Long**\*, Berk Ustun, Flavio Calmon (* Equal Contribution)\
-Advances in Neural Information Processing Systems (**NeurIPS**), 2022\
-*TL/DR:* It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world.
+Advances in Neural Information Processing Systems (**NeurIPS**), 2022.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>It is impossible to reliably verify that a personalized classifier with $k \geq 19$ binary group attributes will benefit every group that provides personal data using a dataset of $n = 8 × 10^9$ samples – one for each person in the world. </p>
+  </details>
+
 
 <!-- <pre><code>
 @article{monteiro2022epistemic,
