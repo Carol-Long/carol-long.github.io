@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a 4th-year Ph.D. student at Harvard, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). My expected graduation date is May 2026! I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com). 
+Hello! I am a Ph.D. student at Harvard, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). My expected graduation date is May 2026! I completed my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and I interned at [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com). 
 
 My research interest lies in **Responsible and Trustworthy Machine Learning**, and my work spans LLM watermarking (**ongoing work!**), algorithmic fairness, multiplicity, and more. I contemplate the impacts of ML algorithms on various domains of society for different (exponentially-many) groups of people. I use tools and frameworks from Information Theory, Probability, and Statistics. 
 I am always open for collaborations and can be reached via email!
@@ -15,17 +15,17 @@ I am always open for collaborations and can be reached via email!
 # Publications 
 - [HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/pdf/2506.06409?)\
 Dor Tsur\*, **Carol Xuan Long**\*, Claudio M. Verdun, Hsiang Hsu, Chen-Fu Chen, Haim Permuter, Sajani Vithana, Flavio P Calmon\
-Under Review, 2025.\
-<details><summary><strong>TL/DR</strong></summary>
-<p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks HeavyWater and SimplexWater that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and coding theory.</p>
-</details>
+Under Review, 2025.
+  <details><summary><strong>TL/DR</strong></summary>
+  <p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks HeavyWater and SimplexWater that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and coding theory.</p>
+  </details>
 
-- [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO), [slides](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing)\
+- [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO), [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing)\
 **Carol Xuan Long**\*, Dor Tsur\*, Claudio M. Verdun, Hsiang Hsu, Haim Permuter, Flavio P Calmon\
 IEEE International Symposium on Information Theory (**ISIT**), 2025.\
 *TL/DR:* We argue that a key component in watermark design is generating a coupling between the side information shared with the watermark detector and a random partition of the LLM vocabulary. Our analysis identifies the optimal coupling and randomization strategy under the worst-case LLM next-token distribution that satisfies a min-entropy constraint. We propose the **Correlated-Channel watermarking scheme** --- a closed-form scheme that achieve high detection at zero distortion.
 
-- [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf), [slides](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing)\
+- [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf), [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing)\
 **Carol Xuan Long**, Wael Alghamdi, Alexander Glynn, Yixuan Wu, Flavio P Calmon\
 Foundations of Responsible Computing (**FORC**), 2025.\
 *TL/DR:* We connect multi-group notions with *Integral Probability Metrics*, and propose **KMAcc** --- a non-iterative, one-step optimization to correct multiaccuracy errors in the kernel space.
