@@ -82,4 +82,4 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2022.
 }</code></pre> -->
 
 # Misc
-Outside of work, I am a globaltrotter, dancer, and music-lover. Growing up as a swimmer, I enjoy sports. From completing a half-marathon and recovering from an ACL injury, for better or worse, I do have many stories to tell. Of course, I love cooking Canton/Singaporean food and reading away in the comfort of home! 
+Outside of work, I am a globaltrotter, dancer, and music-lover. Growing up as a swimmer, I enjoy sports. From completing a half-marathon and recovering from an ACL injury, for better or worse, I do have many stories to tell. Of course, I also love cooking Canton/Singaporean food and reading away in the comfort of home! 
