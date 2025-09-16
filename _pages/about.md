@@ -15,7 +15,7 @@ I am open for collaborations and can be reached via email!
 
 I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
 
-## News 
+# News 
 
 ### September 2025
 - 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game.
