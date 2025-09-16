@@ -15,6 +15,19 @@ I am open for collaborations and can be reached via email!
 
 I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
 
+# News and Ongoing Work
+
+## September 2025
+- 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game.
+- 🎯 A joint team from Harvard Information Theory Lab, MIT Data Science Lab, and GeorgiaTech Scheller College of Business has built the first live simulation of LLM-powered Beer Game. 
+- Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
+
+## July 2025 
+- 🎤 Presented [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO), [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing) at IEEE International Symposium on Information Theory @ University of Michigan.
+
+## Jun 2025
+- 🎤 Presented [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf), [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing) at Foundations of Responsible Computing @ Stanford University.
+
 
 # Publications 
 - [HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/pdf/2506.06409?)\
