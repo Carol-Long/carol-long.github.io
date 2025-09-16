@@ -18,9 +18,7 @@ I received my undergraduate degree in Math and Computer Science at [NYU Courant]
 # News 
 
 ### September 2025
-- 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game.
-- 🎯 A joint team from Harvard Information Theory Lab, MIT Data Science Lab, and GeorgiaTech Scheller College of Business has built 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝗹𝗶𝘃𝗲 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝗲𝗿 𝗚𝗮𝗺𝗲 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗟𝗟𝗠𝘀. 
-- 👉 Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
+- 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game. A joint team from Harvard Information Theory Lab, MIT Data Science Lab, and GeorgiaTech Scheller College of Business has built 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝗹𝗶𝘃𝗲 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝗲𝗿 𝗚𝗮𝗺𝗲 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗟𝗟𝗠𝘀.  Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
 
 ### July 2025 
 - 🎤 Presented [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO) [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing) at the IEEE International Symposium on Information Theory, University of Michigan.
