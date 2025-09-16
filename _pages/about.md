@@ -23,10 +23,10 @@ I received my undergraduate degree in Math and Computer Science at [NYU Courant]
 - 👉 Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
 
 ### July 2025 
-- 🎤 Presented [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO) [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing) at IEEE International Symposium on Information Theory @ University of Michigan.
+- 🎤 Presented [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO) [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing) at the IEEE International Symposium on Information Theory, University of Michigan.
 
 ### Jun 2025
-- 🎤 Presented [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf) [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing) at Foundations of Responsible Computing @ Stanford University.
+- 🎤 Presented [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf) [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing) at the Foundations of Responsible Computing, Stanford University.
 
 
 # Publications 
