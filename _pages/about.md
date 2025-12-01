@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a final-year Ph.D. candidate at Harvard University, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). I develop robust and reliable solutions that enable trustworthy adoption of AI across critical domains. I am currently on the job market for positions starting in September 2026, with a preference for opportunities in Europe.
+Hello! I am a final-year Ph.D. candidate at Harvard University, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). I develop robust and reliable solutions that enable trustworthy adoption of AI across critical domains. I am currently on the job market for positions starting in September 2026.
 
 My research focuses on **reliable, responsible and trustworthy Machine Learning**, and my work spans GenAI Agents, supply chain management, LLM watermarking, algorithmic fairness, multiplicity, and more. I use tools and frameworks from Optimization, Information Theory, Probability, and Statistics. 
 I am open for collaborations and can be reached via email!
