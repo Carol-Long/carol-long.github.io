@@ -15,7 +15,10 @@ I am open for collaborations and can be reached via email!
 
 I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
 
-# News 
+# News
+
+### December 2025
+- 📰 Our work on autonomous supply chain is now published at Harvard Business Review: [When Supply Chains Become Autonomous](https://hbr.org/2025/12/when-supply-chains-become-autonomous). In this piece, we highlight the difference between supply chain automation and supply chain autonomy. Without human supervision, autonomous GenAI agents cut supply chain costs up to 67% compared to human teams in our testbed.
 
 ### September 2025
 - 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game. A joint team from Harvard Information Theory Lab, MIT Data Science Lab, and GeorgiaTech Scheller College of Business has built 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝗹𝗶𝘃𝗲 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝗲𝗿 𝗚𝗮𝗺𝗲 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗟𝗟𝗠𝘀.  Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
@@ -28,9 +31,13 @@ I received my undergraduate degree in Math and Computer Science at [NYU Courant]
 
 
 # Publications 
+- [When Supply Chains Become Autonomous](https://hbr.org/2025/12/when-supply-chains-become-autonomous)\
+**Carol Xuan Long**, David Simchi-Levi, Andre P Calmon, Flavio P Calmon\
+Harvard Business Review, 2025.
+
 - [HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions](https://arxiv.org/pdf/2506.06409?)\
 Dor Tsur\*, **Carol Xuan Long**\*, Claudio M. Verdun, Hsiang Hsu, Chen-Fu Chen, Haim Permuter, Sajani Vithana, Flavio P Calmon\
-Under Review, 2025.
+Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
   <details><summary><strong>TL/DR</strong></summary>
   <p>Our goal is to design watermarks that optimally use side information to maximize detection accuracy and minmize distortion of generated text. We propose two watermarks **HeavyWater** and **SimplexWater** that achieve SOTA performance. Our theoretical analysis also reveals surprising new connections between LLM watermarking and **coding theory**.</p>
   </details>
