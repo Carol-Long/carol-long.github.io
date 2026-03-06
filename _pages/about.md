@@ -74,7 +74,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2024.
 
 - [Individual Arbitrariness and Group Fairness](https://openreview.net/pdf?id=nzkWhoXUpv)\
 **Carol Xuan Long**, Hsiang Hsu, Wael Alghamdi, Flavio P Calmon\
-Advances in Neural Information Processing Systems (**NeurIPS**), 2023, <span style="color:red">**Spotlight Paper**</span>.
+Advances in Neural Information Processing Systems (**NeurIPS**), 2023, **Spotlight Paper**.
   <details><summary><strong>TL/DR</strong></summary>
   <p>Fairness interventions in machine learning optimized solely for group fairness and accuracy can exacerbate predictive multiplicity. A third axis of ``arbitrariness'' should be considered when deploying models to aid decision-making in applications of individual-level impact. </p>
   </details>
