@@ -16,6 +16,8 @@ I am open for collaborations and can be reached via email!
 I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
 
 # News
+### February 2026
+- 🎤 Presented [Can GenAI Agents Manage a Supply Chain?](https://infotheorylab.github.io/beer-game/) at MIT Sloan System Dynamics Seminar and USI SD Research Lab.
 
 ### December 2025
 - 📰 Our work on autonomous supply chain is now published at Harvard Business Review: [When Supply Chains Become Autonomous](https://hbr.org/2025/12/when-supply-chains-become-autonomous). In this piece, we highlight the difference between supply chain automation and supply chain autonomy. Without human supervision, autonomous GenAI agents cut supply chain costs up to 67% compared to human teams in our testbed.
@@ -26,7 +28,7 @@ I received my undergraduate degree in Math and Computer Science at [NYU Courant]
 ### July 2025 
 - 🎤 Presented [Optimized Couplings for Watermarking Large Language Models](https://openreview.net/pdf?id=Lnij8CaFFO) [(slides)](https://drive.google.com/file/d/1saeZGgbkPrfPqT27g1ZuH94EyA5nYcwK/view?usp=sharing) at the IEEE International Symposium on Information Theory, University of Michigan.
 
-### Jun 2025
+### June 2025
 - 🎤 Presented [Kernel Multiaccuracy](https://drops.dagstuhl.de/storage/00lipics/lipics-vol329-forc2025/LIPIcs.FORC.2025.7/LIPIcs.FORC.2025.7.pdf) [(slides)](https://drive.google.com/file/d/10pvZUYim2P6dt-fN83yG5ugle4DBKDMT/view?usp=sharing) at the Foundations of Responsible Computing, Stanford University.
 
 
