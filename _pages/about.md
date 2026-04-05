@@ -16,11 +16,14 @@ I am open for collaborations and can be reached via email!
 I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
 
 # News
+### March 2026
+- 🎉 I [defended](https://www.linkedin.com/feed/update/urn:li:activity:7445995138574835712/?originTrackingId=KFxHkaYaMvjQi8prK14j6A%3D%3D) my PhD thesis titled "Trustworthy AI: Ensuring Reliability and Accountability from Models to Agents". Arxiv coming soon.
+
 ### February 2026
 - 🎤 Presented [Can GenAI Agents Manage a Supply Chain?](https://infotheorylab.github.io/beer-game/) at MIT Sloan System Dynamics Seminar and USI SD Research Lab.
 
 ### December 2025
-- 📰 Our work on autonomous supply chain is now published at Harvard Business Review: [When Supply Chains Become Autonomous](https://hbr.org/2025/12/when-supply-chains-become-autonomous). In this piece, we highlight the difference between supply chain automation and supply chain autonomy. Without human supervision, autonomous GenAI agents cut supply chain costs up to 67% compared to human teams in our testbed.
+- 📰 Our work on autonomous supply chain is now published at Harvard Business Review: [When Supply Chains Become Autonomous](https://hbr.org/2025/12/when-supply-chains-become-autonomous) ([full paper with plots](https://infotheorylab.github.io/beer-game/assets/GenAI_Final_Version_w_Plots.pdf)). In this piece, we highlight the difference between supply chain automation and supply chain autonomy. Without human supervision, autonomous GenAI agents cut supply chain costs up to 67% compared to human teams in our testbed.
 
 ### September 2025
 - 🚀 Can GenAI agents🤖 manage a supply chain? Lessons from the classical beer game. A joint team from Harvard Information Theory Lab, MIT Data Science Lab, and GeorgiaTech Scheller College of Business has built 𝘁𝗵𝗲 𝗳𝗶𝗿𝘀𝘁 𝗹𝗶𝘃𝗲 𝘀𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝗲𝗿 𝗚𝗮𝗺𝗲 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝗟𝗟𝗠𝘀.  Try the interactive simulation [here](https://infotheorylab.github.io/beer-game/).
