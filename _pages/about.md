@@ -7,17 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a final-year Ph.D. candidate at Harvard University, advised by [Flavio du Pin Calmon](http://people.seas.harvard.edu/~flavio/). I develop robust and reliable solutions that enable trustworthy adoption of AI across critical domains. I will be joining the ETH Zurich AI Center as a Postdoc Fellow. 
+Hello! My research focuses on building **reliable, responsible, and trustworthy AI**, spanning two main directions:
 
-My research focuses on **reliable, responsible and trustworthy Machine Learning**, and my work spans GenAI Agents, supply chain management, LLM watermarking, algorithmic fairness, multiplicity, and more. I use tools and frameworks from Optimization, Information Theory, Probability, and Statistics. 
-I am open for collaborations and can be reached via email!
+1. **AI safety** — understanding the risks of AI agents and developing watermarking techniques for large language models.
+2. **Trustworthy applications of AI agents** — designing robust, reliable methods that enable safe AI adoption in critical domains such as supply chain management and manufacturing.
 
+I draw on tools and frameworks from optimization, information theory, probability, and statistics.
 
-I received my undergraduate degree in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/) and my industry experience includes [Citadel LLC](https://www.citadel.com) and [Meta](https://about.meta.com).
+I am joining the [ETH Zurich AI Center](https://ai.ethz.ch/) as a Postdoctoral Fellow. I completed my Ph.D. in Applied Mathematics at Harvard and my undergraduate studies in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/). My industry experience includes [Citadel](https://www.citadel.com) and [Meta](https://about.meta.com).
 
 # News
+### May 2026
+- 📄 New paper: [Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management](https://arxiv.org/pdf/2605.17036). Using the multi-echelon supply chain testbed, this follow-up work tackles reliability issues in autonomous AI agents, where inconsistent decisions across identical situations produce occasional outsized errors. We show how guardrails and reinforcement learning post-training can mitigate unreliability risks in AI agents.
+
 ### March 2026
-- 🎉 I [defended](https://www.linkedin.com/feed/update/urn:li:activity:7445995138574835712/?originTrackingId=KFxHkaYaMvjQi8prK14j6A%3D%3D) my PhD thesis titled "Trustworthy AI: Ensuring Reliability and Accountability from Models to Agents". Arxiv coming soon.
+- 🎉 I [defended](https://www.linkedin.com/feed/update/urn:li:activity:7445995138574835712/?originTrackingId=KFxHkaYaMvjQi8prK14j6A%3D%3D) my PhD thesis titled "Trustworthy AI: Ensuring Reliability and Accountability from Models to Agents". 
 
 ### February 2026
 - 🎤 Presented [Can GenAI Agents Manage a Supply Chain?](https://infotheorylab.github.io/beer-game/) at MIT Sloan System Dynamics Seminar and USI SD Research Lab.
