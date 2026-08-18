@@ -12,7 +12,7 @@ Hello! I am a Postdoctoral Fellow at the [ETH Zurich AI Center](https://ai.ethz.
 2. **Trustworthy applications of AI agents** — designing robust, reliable methods that enable safe AI adoption in critical domains such as supply chain management and manufacturing.
 
 I draw on tools and frameworks from optimization, information theory, probability, and statistics.
-I completed my Ph.D. in Applied Mathematics at Harvard and my undergraduate studies in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/). My industry experience includes [Citadel](https://www.citadel.com) and [Meta](https://about.meta.com).
+I completed my Ph.D. in Applied Mathematics at [Harvard University](https://seas.harvard.edu/) and my undergraduate studies in Math and Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic/). My industry experience includes [Citadel](https://www.citadel.com) and [Meta](https://about.meta.com).
 
 # News
 ### May 2026
