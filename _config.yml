@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Carol's Homepage"
 title_separator          : "-"
-name                     : &name "Carol X. Long"
-description              : &description "PhD Student at Harvard University"
+name                     : &name "Carol X. Long, Ph.D."
+description              : &description "Postdoctoral Researcher at ETH Zurich"
 url                      : https://carol-long.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carol-long/carol-long.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carol X. Long"
+  name             : "Carol X. Long, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student in Applied Mathematics,\ Harvard John A. Paulson School of Engineering and Applied Sciences"
-  location         : "Cambridge, MA"
-  employer         : 
+  bio              : "Postdoctoral Researcher, ETH Zurich AI Center"
+  location         : "Zurich, Switzerland"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DGQASc8AAAAJ&hl=en"
   email            : "carol_long@g.harvard.edu"
