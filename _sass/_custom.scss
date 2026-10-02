@@ -1,0 +1,139 @@
+/* ==========================================================================
+   Homepage customizations
+   ========================================================================== */
+
+$accent-color: #1f4e79;
+
+/* faint beige page background */
+body {
+  background-color: $background-color;
+}
+
+/* highlighted key phrases */
+.hl {
+  color: $accent-color;
+  font-weight: 600;
+}
+
+/* research focus box */
+.research-box {
+  margin: 1.5em 0;
+  padding: 1.1em 1.4em;
+  background-color: #f2f6fa;
+  border-left: 4px solid $accent-color;
+  border-radius: 4px;
+
+  p {
+    margin: 0 0 0.75em;
+  }
+
+  ol {
+    margin: 0 0 0.75em;
+    padding-left: 1.4em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* compact, date-prefixed news list */
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    display: flex;
+    margin-bottom: 0.6em;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent-color;
+      text-decoration: underline;
+    }
+  }
+
+  .news-date {
+    flex: 0 0 6.5em;
+    color: $accent-color;
+    font-weight: 600;
+  }
+}
+
+/* guiding research questions */
+.research-box {
+  ol > li {
+    margin-bottom: 0.9em;
+  }
+
+  ol > li:last-child {
+    margin-bottom: 0;
+  }
+
+  .rq {
+    display: block;
+    color: $accent-color;
+    font-weight: 600;
+  }
+
+  .rq-work {
+    display: block;
+    margin-top: 0.2em;
+    font-size: 0.95em;
+  }
+}
+
+/* research keywords */
+.keywords {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+  margin: -0.5em 0 1.5em;
+  font-size: 0.85em;
+
+  .keywords-label {
+    margin-right: 0.2em;
+    font-weight: 600;
+  }
+
+  .keyword {
+    padding: 0.15em 0.7em;
+    color: $accent-color;
+    background-color: #f2f6fa;
+    border: 1px solid mix(#fff, $accent-color, 75%);
+    border-radius: 1em;
+  }
+}
+
+/* wider layout: narrower side margins */
+#main {
+  @include breakpoint($x-large) {
+    max-width: 1440px;
+  }
+}
+
+.page {
+  @include breakpoint($large) {
+    @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(0.75 of 12);
+  }
+}
+
+/* larger profile picture */
+.author__avatar img {
+  @include breakpoint($large) {
+    width: 100%;
+    max-width: 230px;
+  }
+}

@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DGQASc8AAAAJ&hl=en"
-  email            : "carol_long@g.harvard.edu"
+  email            : "carol.long@ai.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "carol-long"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "carollong2047"
+  twitter          :
   vine             : 
   weibo            :
   xing             :
