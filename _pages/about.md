@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a <span class="hl">Postdoctoral Fellow at the [ETH AI Center](https://ai.ethz.ch/)</span>, working on AI safety and the trustworthy application of AI in industrial domains. I earned my Ph.D. in Applied Mathematics from [Harvard University's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), and my alma mater is [NYU Courant](https://cims.nyu.edu/dynamic/).
+I am a <span class="hl">Postdoctoral Fellow at the [ETH AI Center](https://ai.ethz.ch/)</span>, working on AI safety and the trustworthy application of AI in industrial domains with [Florian Tramèr](https://floriantramer.com) and [Torbjörn Netland](https://pom.ethz.ch/people/person-detail.tnetland.html). I earned my Ph.D. in Applied Mathematics from [Harvard University's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), and my alma mater is [NYU Courant](https://cims.nyu.edu/dynamic/).
 
 <div class="research-box">
   <p>My research focuses on <span class="hl">trustworthy AI for decision-making</span> and <span class="hl">AI safety</span>. I develop frameworks and methods that enable machine learning and foundation models to operate responsibly in the real world, with the goal of making AI <span class="hl">reliable, accountable, and safe</span> when deployed in high-stakes domains.</p>
