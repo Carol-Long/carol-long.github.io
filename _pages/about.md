@@ -9,10 +9,10 @@ redirect_from:
 ---
 I am a <span class="hl">Postdoctoral Fellow at the [ETH AI Center](https://ai.ethz.ch/)</span>, working on AI safety and the trustworthy application of AI in industrial domains with [Florian Tramèr](https://floriantramer.com) and [Torbjörn Netland](https://pom.ethz.ch/people/person-detail.tnetland.html). I earned my Ph.D. in Applied Mathematics from [Harvard University's John A. Paulson School of Engineering and Applied Sciences](https://seas.harvard.edu/), and my alma mater is [NYU Courant](https://cims.nyu.edu/dynamic/).
 
+  I am currently fascinated by two directions: 1) safety evaluations on emerging risks of multi-agent swarms; 2) applications for AI agents on manufacturing and supply chains. Happy to chat if you have any thoughts on these topics! 
+
 <div class="research-box">
   <p>My research focuses on <span class="hl">trustworthy AI for decision-making</span> and <span class="hl">AI safety</span>. I develop frameworks and methods that enable machine learning and foundation models to operate responsibly in the real world, with the goal of making AI <span class="hl">reliable, accountable, and safe</span> when deployed in high-stakes domains.</p>
-
-  I am currently working on two topics: 1) safety/risks of multi-agent swarms; 2) LLM applications for manufacturing and supply chains. Always happy to collaborate and chat if you have similar interests!
 
   <p>My recent work addresses the following questions:</p>
   <ol>
@@ -147,6 +147,6 @@ Advances in Neural Information Processing Systems (**NeurIPS**), 2022.
 }</code></pre> -->
 
 # Beyond Research
-Outside of work, I am a globetrotter, dancer, and music-lover. Growing up as a swimmer, I enjoy sports. From completing a half-marathon and recovering from an ACL injury, I’ve collected many stories to tell (for better or worse!). Whenever I can, I head outdoors --- my top three U.S. national parks are Yellowstone, the Grand Canyon, and Mount Rainier. 
+Outside of work, I meditate, enjoy music, and move around a lot. Growing up as a swimmer, I enjoy all kinds of workouts. From completing a half-marathon and recovering from an ACL injury, I’ve collected many stories to tell (for better or worse!). Whenever I can, I head outdoors --- my top three U.S. national parks are Yellowstone, the Grand Canyon, and Mount Rainier. 
 
 <!-- Outside of work, I am a globaltrotter, dancer, and music-lover. Growing up as a swimmer, I enjoy sports. From completing a half-marathon and recovering from an ACL injury, for better or worse, I do have many stories to tell. Of course, I also love cooking Canton/Singaporean food and reading away in the comfort of home!  -->
